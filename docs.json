@@ -17,7 +17,12 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
+              "quickstart"
+            ]
+          },
+          {
+            "group": "Server List",
+            "pages": [
               "hytale-server-guide"
             ]
           }
