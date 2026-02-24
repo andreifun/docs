@@ -27,6 +27,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Tutorials",
+        "groups": [
+          {
+            "group": "Hytale",
+            "pages": [
+              "how-to-start-a-server"
+            ]
+          }
+        ]
       }
     ]
   },
